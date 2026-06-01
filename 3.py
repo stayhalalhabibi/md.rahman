@@ -33,3 +33,18 @@ print(type(age))     # int
 print(type(marks))   # float
 
 print(f"{name} is {age} year old and got the {marks} marks")                 # sharifur rahman is 20 years old and got the 82.876 marks
+
+print("%s is %d years old and got the %2f marks" %(name,age,marks))            # sharifur rahman is 20 years old and got the 82.876 marks
+
+str1 = "sharif"
+print(type(str1))          # string
+name = " rahman"
+print(str1 + name)         # sharifur rahman
+
+k = 12
+l = 34
+print(k>l)                 # False
+print(k==l)                 # False
+print(k<l)                 # True
+
+
