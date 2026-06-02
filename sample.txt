@@ -1,3 +1,1 @@
-Hello world
-This is Python program
-Word counter example
+This is my 02_assign.Python want to be a fsd  and da
